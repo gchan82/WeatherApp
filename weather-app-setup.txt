@@ -1,0 +1,13 @@
+ReduxSimpleStarter-master.zip as boilerplate
+
+npm start (installs node modules)
+
+openweathermap.org/forecast5 - for API
+
+npm install --save redux-promise
+
+npm i --save axios (ajax requests library)
+
+npm i react-sparklines --save
+
+npm i --save lodash
